@@ -1,5 +1,5 @@
 # Quote-Generator
-Generate a new quote with a click of a button and also share the quote to Twitter.
+It is a little project, which intended to generate a new quote with a click of a button and also share the quote to Twitter.
 
 # Motivation for this project
 The idea came about from the JavaScript Web Projects: 20 Projects to Build Your Portfolio. I encourage you to check it out.
@@ -15,4 +15,5 @@ The idea came about from the JavaScript Web Projects: 20 Projects to Build Your 
 Icons from Fontawesome
 
 # Deployment
-The web-page is available at the link: https://tol8901.github.io/Quote-Generator/.
+The web-page is available at the link:
+https://tol8901.github.io/Quote-Generator/.
